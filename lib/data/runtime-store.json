@@ -1,0 +1,960 @@
+{
+  "services": [
+    {
+      "id": "srv-1",
+      "slug": "brand-management",
+      "number": "01",
+      "title": "Brand Management",
+      "category": "Brand Strategy & Identity",
+      "punchyCopy": "Define the voice. Command the category. Scale long-term enterprise value.",
+      "shortDescription": "Holistic brand strategy, visual identities, positioning, and cross-channel cultural guidelines.",
+      "longDescription": "We build unmistakable brand worlds that command premium attention. From comprehensive identity systems and typographic governance to positioning narratives and executive communication, BE SOOCIAL aligns your visual presence with long-term enterprise value.",
+      "features": [
+        "Comprehensive Brand Identity Systems & Tokenization",
+        "Strategic Market Positioning & Competitor Deconstruction",
+        "Multi-Touchpoint Brand Guidelines & Creative Playbooks",
+        "Executive Thought Leadership & Founder Storytelling"
+      ],
+      "deliverables": [
+        "Full Vector Identity Kit (Primary, Secondary, Monograms)",
+        "Digital-First Brand Book & Token Library",
+        "Art Direction Guidelines for Video & Photography",
+        "Tone of Voice & Messaging Framework"
+      ],
+      "route": "/services/brand-management",
+      "sortOrder": 1,
+      "status": "published",
+      "stats": [
+        {
+          "label": "Brand Value Uplift",
+          "value": "3.4x"
+        },
+        {
+          "label": "Consistency Index",
+          "value": "99%"
+        }
+      ]
+    },
+    {
+      "id": "srv-2",
+      "slug": "video-editing",
+      "number": "02",
+      "title": "Short-Form / Long-Form Video Editing",
+      "category": "Post-Production & Motion",
+      "punchyCopy": "Hook in 800ms. Pace with surgical intent. Master the retention curve.",
+      "shortDescription": "Cinematic pacing, sound design, motion graphics, and high-velocity short & long-form video editing.",
+      "longDescription": "In an era of hyper-accelerated feeds, retention is earned in the first 800 milliseconds. Our edit suites engineer narrative velocity with surgical pacing, bespoke SFX, custom typography animations, and color grading tuned for both vertical mobile screens and 4K cinema.",
+      "features": [
+        "Commercial & Short-Form Video Editing (Reels, TikTok, Shorts)",
+        "Paced Long-Form Documentaries & Keynotes",
+        "Bespoke Kinetic Typography & Motion Graphics",
+        "Immersive Sound Design & Atmos Mixing"
+      ],
+      "deliverables": [
+        "Master High-Resolution Cuts in 16:9, 9:16, and 1:1",
+        "Export Packages with Platform-Specific Bitrate Tuning",
+        "Dynamic Subtitles & Kinetic Captioning Assets",
+        "Audio Stems & Sound Design Packages"
+      ],
+      "route": "/services/video-editing",
+      "sortOrder": 2,
+      "status": "published",
+      "stats": [
+        {
+          "label": "Average Watch Time",
+          "value": "+74%"
+        },
+        {
+          "label": "Cross-Platform Views",
+          "value": "750K+"
+        }
+      ]
+    },
+    {
+      "id": "srv-3",
+      "slug": "ai-filmmaking",
+      "number": "03",
+      "title": "AI Filmmaking",
+      "category": "Neural Virtual Production",
+      "punchyCopy": "Imagine it. Generate it. Make it cinema.",
+      "shortDescription": "Next-generation cinematic commercials, surreal narrative worlds, and hybrid generative visuals.",
+      "longDescription": "We combine human directorial vision with state-of-the-art generative video pipelines (ComfyUI, Midjourney, Kling, Runway Gen-3). Rather than cheap AI novelties, we create production-grade cinematic commercials, photorealistic worldbuilding, and visual effects that would normally cost millions in physical sets.",
+      "features": [
+        "Prompt-to-Screen Cinematic Worldbuilding & Storyboards",
+        "Neural Character Consistency & Photorealistic Actors",
+        "Hybrid VFX: Blending Real Footage with Neural NeRFs",
+        "Soundscape Generation & Cinematic Voice Synthesis"
+      ],
+      "deliverables": [
+        "Broadcast-Quality 4K Commercial Masters",
+        "Concept World Bible & Neural Asset Libraries",
+        "Pre-Visualization Animatic Sequences",
+        "Full Copyright Clearance & Source Archival"
+      ],
+      "route": "/services/ai-filmmaking",
+      "sortOrder": 3,
+      "status": "published",
+      "stats": [
+        {
+          "label": "Production Cost Reduction",
+          "value": "65%"
+        },
+        {
+          "label": "Turnaround Acceleration",
+          "value": "4x"
+        }
+      ]
+    },
+    {
+      "id": "srv-4",
+      "slug": "website-development",
+      "number": "04",
+      "title": "Website Development",
+      "category": "Creative Engineering",
+      "punchyCopy": "Architect 60fps canvases. Blend 3D depth with utility. Convert visitors into believers.",
+      "shortDescription": "Headless Next.js, Three.js 3D spatial interfaces, and high-converting performance engineering.",
+      "longDescription": "Websites should not be static brochures; they are living brand flagship stores. We engineer interactive, 60fps web experiences utilizing Next.js, WebGL/Three.js spatial scenes, GSAP animations, and headless CMS integrations designed to turn curious visitors into loyal brand advocates.",
+      "features": [
+        "Custom Three.js & WebGL Interactive Spatial Canvases",
+        "Headless Next.js App Router Architecture with Microsecond TTFB",
+        "E-Commerce & High-Converting Booking Funnels",
+        "Strict Accessibility (WCAG AA) & SEO Architecture"
+      ],
+      "deliverables": [
+        "Full Source Code Repository with Clean CI/CD Pipelines",
+        "Responsive Cross-Device Layouts (375px to 4K Ultrawide)",
+        "Integrated CMS & Analytics Tracking",
+        "Performance Guarantee: 95+ Lighthouse Score"
+      ],
+      "route": "/services/website-development",
+      "sortOrder": 4,
+      "status": "published",
+      "stats": [
+        {
+          "label": "Lighthouse Performance",
+          "value": "98/100"
+        },
+        {
+          "label": "Conversion Rate Lift",
+          "value": "+42%"
+        }
+      ]
+    },
+    {
+      "id": "srv-5",
+      "slug": "digital-marketing",
+      "number": "05",
+      "title": "Digital Marketing",
+      "category": "Acquisition & Distribution",
+      "punchyCopy": "Target with precision. Test high-velocity creative. Scale attributable revenue.",
+      "shortDescription": "Data-driven paid media, omni-channel acquisition, and organic viral distribution strategies.",
+      "longDescription": "Great creative without distribution is invisible. BE SOOCIAL builds comprehensive acquisition engines spanning Meta Ads, TikTok Ads, YouTube TrueView, programmatic search, and creator partnerships to predictably scale qualified pipeline and direct consumer revenue.",
+      "features": [
+        "Performance Creative Testing Frameworks",
+        "Omnichannel Paid Media Management (Meta, Google, TikTok)",
+        "Growth Funnel Architecture & Conversion Rate Optimization",
+        "Attribution Modeling & Cohort Analytics Reporting"
+      ],
+      "deliverables": [
+        "Weekly Multi-Variant Ad Testing Creative Batches",
+        "Custom Real-Time KPI Performance Dashboards",
+        "Audience Persona & Segment Target Architecture",
+        "Monthly Strategic Growth Roadmaps"
+      ],
+      "route": "/services/digital-marketing",
+      "sortOrder": 5,
+      "status": "published",
+      "stats": [
+        {
+          "label": "Blended ROAS Average",
+          "value": "3.4x"
+        },
+        {
+          "label": "Campaigns Delivered",
+          "value": "35+"
+        }
+      ]
+    },
+    {
+      "id": "srv-6",
+      "slug": "ai-ugc-ads",
+      "number": "06",
+      "title": "AI UGC Ads",
+      "category": "Performance Creative",
+      "punchyCopy": "Generate native hooks. Conquer algorithmic feeds. Outpace creative fatigue.",
+      "shortDescription": "Hyper-personalized user-generated content ads built with neural avatars, multi-angle scripts, and viral hooks.",
+      "longDescription": "Traditional UGC production is slow, expensive, and difficult to iterate on. We produce high-converting AI UGC ad variations with authentic creators, native smartphone aesthetics, and hundreds of hook permutations designed to conquer Meta and TikTok ad algorithms.",
+      "features": [
+        "Algorithmic Hook Testing (50+ variations per concept)",
+        "Authentic Native Creator Avatars & Multi-Accent Dubbing",
+        "Dynamic Product Insertions & Screen Demonstration Overlays",
+        "Fatigue Mitigation: Rapid Replenishment Pipelines"
+      ],
+      "deliverables": [
+        "Ready-to-Deploy 9:16 Video Ad Packages",
+        "Direct-Response Copy & Caption Scripts",
+        "Thumbnail Matrix for Maximum Click-Through Rate",
+        "Hook Analysis & Retention Reports"
+      ],
+      "route": "/services/ai-ugc-ads",
+      "sortOrder": 6,
+      "status": "published",
+      "stats": [
+        {
+          "label": "Hook Retention Rate",
+          "value": "62%"
+        },
+        {
+          "label": "Cost Per Acquisition Drop",
+          "value": "-38%"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-01",
+      "number": "01",
+      "slug": "me-vs-dooms",
+      "title": "Violet — Cyberpunk Story",
+      "client": "BE SOOCIAL Neural Lab",
+      "category": "AI & Film",
+      "categoryLabel": "AI & Film",
+      "serviceSlug": "ai-filmmaking",
+      "brief": "A cinematic cyberpunk narrative exploring identity, neural lighting, and hyper-detailed dystopian worldbuilding.",
+      "challenge": "Achieving photorealistic character consistency, coherent cinematic camera movement, and volumetric neon lighting using multi-stage neural diffusion.",
+      "solution": "Engineered custom LoRA character models coupled with ComfyUI depth-control pipelines and DaVinci Resolve ACES color grading.",
+      "outcome": "An unmistakable cinematic commercial that establishes a new visual benchmark for generative AI storytelling.",
+      "theIdea": "In a rain-slicked cyberpunk metropolis, synthetic intelligence and human emotion collide. Violet navigates corporate surveillance and digital undergrounds.",
+      "theApproach": "We avoided generic AI novelty in favor of controlled camera tracking, low-angle anamorphic framing, and deep atmospheric color grading.",
+      "theExecution": "Multi-pass generative synthesis with custom control nets, physical particle compositing, and a bespoke spatial synthesizer score.",
+      "theFinalFilm": "A breathtaking cinematic film that demonstrates that generative AI can achieve true directorial weight and visual gravitas.",
+      "year": "2026",
+      "type": "AI Virtual Production / Cinema",
+      "coverUrl": "https://lh3.googleusercontent.com/d/14w00hpw4UNZk84FgUerS7NwmoCjlsW5u",
+      "videoUrl": "/api/media/11poiwi6HvSDJSAZ73-oolsNfSecV84iw",
+      "video": "/api/media/11poiwi6HvSDJSAZ73-oolsNfSecV84iw",
+      "poster": "https://lh3.googleusercontent.com/d/14w00hpw4UNZk84FgUerS7NwmoCjlsW5u",
+      "route": "/work/me-vs-dooms",
+      "aspectRatio": "9/16",
+      "width": 1080,
+      "height": 1920,
+      "credits": {
+        "Directorial AI Lead": "BE SOOCIAL Neural Lab",
+        "Prompt Architecture": "ComfyUI ControlNet Suite",
+        "Master Color Grade": "DaVinci Resolve ACES",
+        "Sound Design": "Spatial Synth Atmos"
+      },
+      "metrics": [
+        {
+          "label": "Pipeline",
+          "value": "Neural Cinema"
+        },
+        {
+          "label": "Format",
+          "value": "9:16 Vertical"
+        },
+        {
+          "label": "Audio",
+          "value": "Binaural Mix"
+        }
+      ],
+      "featured": true,
+      "showOnHome": true,
+      "sortOrder": 1,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-02",
+      "number": "02",
+      "slug": "hod-sample-render",
+      "title": "House of Dragons — Virtual Set",
+      "client": "Fantasy Cinematic Universe",
+      "category": "AI & Film",
+      "categoryLabel": "AI & Film",
+      "serviceSlug": "ai-filmmaking",
+      "brief": "A photorealistic virtual set exploration featuring grand gothic masonry, torchlight physics, and cinematic depth.",
+      "challenge": "Generating complex architectural stone geometry with consistent multi-angle lighting without physical set construction.",
+      "solution": "Deployed procedural 3D block-outs as spatial depth guides for generative video diffusion models.",
+      "outcome": "A production-ready cinematic background sequence that cut concept pre-visualization turnaround from weeks to hours.",
+      "theIdea": "Ancient stone halls and dragon-lit corridors brought to life through hybrid 3D NeRF spatial models and neural video synthesis.",
+      "theApproach": "Directorial camera dolly movements with realistic focal depth, atmospheric torch flicker, and authentic medieval material textures.",
+      "theExecution": "Composited in 4K with deep contrast curves, dynamic ember particles, and subterranean acoustic reverb soundscapes.",
+      "theFinalFilm": "An evocative fantasy realm environment ready for broadcast virtual production and digital visual effects.",
+      "year": "2026",
+      "type": "AI Virtual Production",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1W0uJnMWqRbg0JIMf7DRUFdAX50G3x3X8",
+      "videoUrl": "/api/media/1OCtmevynqH8c-EZwUw1XrX05Pp0W8wDK",
+      "video": "/api/media/1OCtmevynqH8c-EZwUw1XrX05Pp0W8wDK",
+      "poster": "https://lh3.googleusercontent.com/d/1W0uJnMWqRbg0JIMf7DRUFdAX50G3x3X8",
+      "route": "/work/hod-sample-render",
+      "aspectRatio": "1/1",
+      "width": 1080,
+      "height": 1080,
+      "credits": {
+        "Virtual Production": "BE SOOCIAL AI Studio",
+        "Environment Design": "Neural NeRF Lab",
+        "Score & Audio Post": "Dolby Atmos Master"
+      },
+      "metrics": [
+        {
+          "label": "Technology",
+          "value": "Spatial NeRF + AI"
+        },
+        {
+          "label": "Format",
+          "value": "1:1 Square"
+        },
+        {
+          "label": "Velocity",
+          "value": "4x Acceleration"
+        }
+      ],
+      "featured": true,
+      "showOnHome": true,
+      "sortOrder": 2,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-03",
+      "number": "03",
+      "slug": "starbucks-brand-reveal",
+      "title": "Starbucks Brand Reveal",
+      "client": "Brand Motion Showcase",
+      "category": "Brand & Motion",
+      "categoryLabel": "Brand & Motion",
+      "serviceSlug": "brand-management",
+      "brief": "A clean brand reveal animation using elegant motion, typography, and logo choreography.",
+      "challenge": "Deconstructing iconic brand geometry without compromising brand recognition or cluttering the classic emblem.",
+      "solution": "Crafted bespoke vector paths and coordinate easing curves in After Effects, paired with liquid motion choreography.",
+      "outcome": "An elegant, fluid logo animation demonstrating brand motion restraint and typographic harmony.",
+      "theIdea": "To deconstruct iconic brand geometry and reconstruct it with liquid fluidity, paying homage to artisanal coffee craftsmanship.",
+      "theApproach": "Focusing strictly on elegant easing curves, vector morphing, typographic rhythm, and subtle depth cues.",
+      "theExecution": "Crafted in After Effects with bespoke motion paths, vector coordinate interpolation, and organic liquid-sheen transitions.",
+      "theFinalFilm": "A hypnotic emblem reveal that demonstrates how modern motion choreography elevates heritage brand marks.",
+      "year": "2026",
+      "type": "Brand Motion / Logo Animation",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1fNguufzbEDEedUUy1oNdiI6Qsc0PnPgt",
+      "videoUrl": "/api/media/1fNguufzbEDEedUUy1oNdiI6Qsc0PnPgt",
+      "video": "/api/media/1fNguufzbEDEedUUy1oNdiI6Qsc0PnPgt",
+      "poster": "https://lh3.googleusercontent.com/d/1fNguufzbEDEedUUy1oNdiI6Qsc0PnPgt",
+      "route": "/work/starbucks-brand-reveal",
+      "aspectRatio": "16/9",
+      "width": 1280,
+      "height": 720,
+      "credits": {
+        "Motion Design": "BE SOOCIAL Motion Lab",
+        "Art Direction": "BE SOOCIAL Studio",
+        "Audio Design": "Spatial Logo SFX"
+      },
+      "metrics": [
+        {
+          "label": "Frame Rate",
+          "value": "60 FPS"
+        },
+        {
+          "label": "Format",
+          "value": "16:9 Widescreen"
+        },
+        {
+          "label": "Style",
+          "value": "Fluid Kinetic"
+        }
+      ],
+      "featured": true,
+      "showOnHome": true,
+      "sortOrder": 3,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-04",
+      "number": "04",
+      "slug": "blinkpic",
+      "title": "BlinkPic — Photography Platform",
+      "client": "BlinkPic",
+      "category": "SaaS / Product",
+      "categoryLabel": "SaaS / Product",
+      "serviceSlug": "video-editing",
+      "brief": "A SaaS promotional film showing an all-in-one photography studio operating system, including AI face discovery, billing, and automated workflows.",
+      "challenge": "Communicating a dense feature set—facial recognition, photo sharing, automated invoicing—within a fast-paced promotional structure.",
+      "solution": "Engineered high-velocity UI motion choreography integrated into dynamic 3D screen perspectives with tactile sound effects.",
+      "outcome": "A commercial film that captures software utility while maintaining the visual polish expected by world-class professional photographers.",
+      "theIdea": "Photographers spend more time sorting and invoicing than shooting. BlinkPic streamlines the pipeline with instant AI-powered gallery search and delivery.",
+      "theApproach": "We blended high-energy UI captures with stylized motion graphics, dynamic camera pans across the interface, and sharp audio cues.",
+      "theExecution": "Composited high-resolution UI screen recordings into kinetic 3D device environments with synchronized sound effects and kinetic typography.",
+      "theFinalFilm": "A compelling SaaS commercial that communicates software utility with the visual polish expected by world-class professional photographers.",
+      "year": "2026",
+      "type": "SaaS / Product Film",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1DWX9xRXXtXC-VZZ6hXhMUdjerw4LgNoM",
+      "videoUrl": "/api/media/1DWX9xRXXtXC-VZZ6hXhMUdjerw4LgNoM",
+      "video": "/api/media/1DWX9xRXXtXC-VZZ6hXhMUdjerw4LgNoM",
+      "poster": "https://lh3.googleusercontent.com/d/1DWX9xRXXtXC-VZZ6hXhMUdjerw4LgNoM",
+      "route": "/work/blinkpic",
+      "aspectRatio": "16/9",
+      "width": 3840,
+      "height": 2160,
+      "credits": {
+        "Direction & Motion": "BE SOOCIAL Studio",
+        "UI Choreography": "BE SOOCIAL Motion Lab",
+        "Sound & Voiceover": "Master Audio Suite"
+      },
+      "metrics": [
+        {
+          "label": "Platform",
+          "value": "SaaS Product"
+        },
+        {
+          "label": "Resolution",
+          "value": "4K Ultra HD"
+        },
+        {
+          "label": "Format",
+          "value": "16:9 Cinema"
+        }
+      ],
+      "featured": true,
+      "showOnHome": true,
+      "sortOrder": 4,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-05",
+      "number": "05",
+      "slug": "breaking-financial-cycle",
+      "title": "Breaking the Financial Cycle",
+      "client": "Financial Mindset",
+      "category": "Commercial",
+      "categoryLabel": "Commercial",
+      "serviceSlug": "video-editing",
+      "brief": "A cinematic minimalist piece exploring why people can continue experiencing financial friction despite earning well.",
+      "challenge": "Translating complex financial psychology into a compelling, non-judgmental narrative that holds attention in fast-scrolling social feeds.",
+      "solution": "Designed an editorial pacing framework with intimate low-key lighting, focused voiceover, and kinetic typography that emphasizes emotional resonance.",
+      "outcome": "An engaging, cinematic storytelling film that generates high organic retention and sparked extensive community discussions.",
+      "theIdea": "High earners often fall into invisible financial loops—lifestyle creep, emotional spending, and debt disguised as progress. The film explores the psychology with cinematic restraint.",
+      "theApproach": "We avoided sensationalist finance graphics in favor of editorial pacing, moody low-key lighting, focused narrative voiceover, and kinetic typography.",
+      "theExecution": "Precision pacing with surgical sound design, ambient score layering, and high-contrast color grading that gives documentary-grade weight.",
+      "theFinalFilm": "A thought-provoking narrative piece that holds attention from the opening frame, driving deep community dialogue and retention.",
+      "year": "2026",
+      "type": "Cinematic Storytelling",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1ES1uf2zK36ZfXlmG4xf8hAbNfOuFI1xR",
+      "videoUrl": "/api/media/1ES1uf2zK36ZfXlmG4xf8hAbNfOuFI1xR",
+      "video": "/api/media/1ES1uf2zK36ZfXlmG4xf8hAbNfOuFI1xR",
+      "poster": "https://lh3.googleusercontent.com/d/1ES1uf2zK36ZfXlmG4xf8hAbNfOuFI1xR",
+      "route": "/work/breaking-financial-cycle",
+      "aspectRatio": "9/16",
+      "width": 736,
+      "height": 1308,
+      "credits": {
+        "Creative Direction": "BE SOOCIAL Studio",
+        "Editing & Sound Design": "BE SOOCIAL Edit Suite",
+        "Color Grade": "DaVinci Resolve ACES"
+      },
+      "metrics": [
+        {
+          "label": "Format",
+          "value": "9:16 Vertical"
+        },
+        {
+          "label": "Discipline",
+          "value": "Commercial Reel"
+        },
+        {
+          "label": "Audio",
+          "value": "Master Mix"
+        }
+      ],
+      "featured": true,
+      "showOnHome": true,
+      "sortOrder": 5,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-06",
+      "number": "06",
+      "slug": "sample",
+      "title": "Mythic Olympus — Ancient Reverie",
+      "client": "Editorial AI Study",
+      "category": "AI & Film",
+      "categoryLabel": "AI & Film",
+      "serviceSlug": "ai-filmmaking",
+      "brief": "A cinematic visual poem recreating classical statuesque aesthetics and mythic atmospheres through multi-modal generative video.",
+      "challenge": "Achieving soft alabaster stone textures, volumetric sunlight rays, and natural cloth physics with AI models.",
+      "solution": "Combined photorealistic text-to-image prompts with image-to-video trajectory controls and fine-tuned motion weight matrices.",
+      "outcome": "A mesmerizing visual study proving that synthetic video can capture fine art museum aesthetics.",
+      "theIdea": "Gods, stone monuments, and forgotten temples imagined with contemporary cinematic camera choreography and golden-hour lighting.",
+      "theApproach": "Slow, deliberate camera pans paired with micro-movements in fabric and wind, avoiding uncanny distortion.",
+      "theExecution": "Ultra-high-definition neural upscaling, film grain overlays, and an ambient classical orchestral soundscape.",
+      "theFinalFilm": "A poetic cinematic achievement that blurs the boundary between classical sculpture and living cinema.",
+      "year": "2026",
+      "type": "AI Virtual Production / Cinema",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1bq-QLb2ep3COXkwq16Vi-j3RfjFyvzZT",
+      "videoUrl": "/api/media/19_kr2sCuf8wbmjpv6-3BCGO9znDmum2e",
+      "video": "/api/media/19_kr2sCuf8wbmjpv6-3BCGO9znDmum2e",
+      "poster": "https://lh3.googleusercontent.com/d/1bq-QLb2ep3COXkwq16Vi-j3RfjFyvzZT",
+      "route": "/work/sample",
+      "aspectRatio": "9/16",
+      "width": 2160,
+      "height": 3840,
+      "credits": {
+        "Art Direction": "BE SOOCIAL Lab",
+        "Diffusion Architecture": "Runway Gen-3 & ComfyUI",
+        "Orchestral Master": "Symphonic Sound Suite"
+      },
+      "metrics": [
+        {
+          "label": "Art Style",
+          "value": "Classical Cinematic"
+        },
+        {
+          "label": "Format",
+          "value": "9:16 Vertical"
+        },
+        {
+          "label": "Upscaling",
+          "value": "4K ProRes"
+        }
+      ],
+      "featured": true,
+      "showOnHome": true,
+      "sortOrder": 6,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-07",
+      "number": "07",
+      "slug": "ultimate-editors",
+      "title": "Ultimate Editors 2.0",
+      "client": "Ultimate Editors",
+      "category": "Brand & Motion",
+      "categoryLabel": "Brand & Motion",
+      "serviceSlug": "video-editing",
+      "brief": "A high-end SaaS animation and motion design showcase featuring glass UI, kinetic typography, and 3D interactive interfaces.",
+      "challenge": "Achieving photorealistic glass UI refractions and multi-dimensional coordinate motion within a tight 60 FPS timeline.",
+      "solution": "Built layered 3D After Effects compositions with optical dispersion shaders, illuminated neon accents, and tactile haptic audio.",
+      "outcome": "A modern motion design reel that sets a benchmark for SaaS product identity and futuristic UI visualization.",
+      "theIdea": "Creative software tools deserve motion branding as refined as the creative output they enable.",
+      "theApproach": "Emphasizing physical glass refractions, luminous neon UI accents, dimensional coordinate tracking, and sleek kinetic typography.",
+      "theExecution": "Multi-plane After Effects 3D composition with realistic optical dispersion, procedural glowing paths, and tactile mechanical click audio.",
+      "theFinalFilm": "A breathtaking motion design reel that sets a new benchmark for SaaS product identity and futuristic UI visualization.",
+      "year": "2026",
+      "type": "3D Motion Design / SaaS",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1pSLndbQTyouR9nLzGigh2hFbldgzYp9r",
+      "videoUrl": "/api/media/1pSLndbQTyouR9nLzGigh2hFbldgzYp9r",
+      "video": "/api/media/1pSLndbQTyouR9nLzGigh2hFbldgzYp9r",
+      "poster": "https://lh3.googleusercontent.com/d/1pSLndbQTyouR9nLzGigh2hFbldgzYp9r",
+      "route": "/work/ultimate-editors",
+      "aspectRatio": "16/9",
+      "width": 3840,
+      "height": 2160,
+      "credits": {
+        "Creative Direction": "BE SOOCIAL Studio",
+        "3D Interface Design": "BE SOOCIAL Spatial Team",
+        "Motion Choreography": "Kinetic Motion Lab"
+      },
+      "metrics": [
+        {
+          "label": "Discipline",
+          "value": "3D Motion Design"
+        },
+        {
+          "label": "Format",
+          "value": "16:9 Cinema"
+        },
+        {
+          "label": "Mastering",
+          "value": "60 FPS 4K"
+        }
+      ],
+      "featured": true,
+      "showOnHome": true,
+      "sortOrder": 7,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-08",
+      "number": "08",
+      "slug": "livzo",
+      "title": "The Social Media Reality",
+      "client": "Livzo",
+      "category": "Social / UGC",
+      "categoryLabel": "Social / UGC",
+      "serviceSlug": "video-editing",
+      "brief": "A humorous and relatable social media management story using meme-style storytelling, kinetic animation, and startup culture.",
+      "challenge": "Crafting content that feels authentic to creators without appearing forced or corporate.",
+      "solution": "Employed snappy jump cuts, meme-literate storytelling tropes, synchronized sound cues, and native smartphone frame pacing.",
+      "outcome": "A viral storytelling asset that engaged creators, founders, and social media managers across social ecosystems.",
+      "theIdea": "Managing brand socials is often romanticized, but behind the scenes it is a flurry of trending sounds and algorithmic panic.",
+      "theApproach": "Fast-paced, witty, meme-literate narrative structure with snappy sound design, playful kinetic text, and relatable scenario staging.",
+      "theExecution": "Rapid-fire jump cuts, synchronized punchline sound effects, expressive typography pops, and native smartphone frame choreography.",
+      "theFinalFilm": "A viral-ready brand storytelling piece that resonated immediately across founders and social media managers.",
+      "year": "2026",
+      "type": "Social Media / Brand Storytelling",
+      "coverUrl": "https://lh3.googleusercontent.com/d/18NX6d4OgaqvKLFY6PybhRL48B7p-6ebj",
+      "videoUrl": "/api/media/18NX6d4OgaqvKLFY6PybhRL48B7p-6ebj",
+      "video": "/api/media/18NX6d4OgaqvKLFY6PybhRL48B7p-6ebj",
+      "poster": "https://lh3.googleusercontent.com/d/18NX6d4OgaqvKLFY6PybhRL48B7p-6ebj",
+      "route": "/work/livzo",
+      "aspectRatio": "9/16",
+      "width": 1056,
+      "height": 1920,
+      "credits": {
+        "Story & Scripting": "BE SOOCIAL Creative",
+        "Lead Editor": "BE SOOCIAL Edit Suite",
+        "Sound Design": "Kinetic SFX Lab"
+      },
+      "metrics": [
+        {
+          "label": "Format",
+          "value": "9:16 Vertical"
+        },
+        {
+          "label": "Style",
+          "value": "Meme Storytelling"
+        },
+        {
+          "label": "Target",
+          "value": "Social Feeds"
+        }
+      ],
+      "featured": false,
+      "showOnHome": true,
+      "sortOrder": 8,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-09",
+      "number": "09",
+      "slug": "agentvoice",
+      "title": "AgentVoice — AI Voice Workflows",
+      "client": "AgentVoice",
+      "category": "SaaS / Product",
+      "categoryLabel": "SaaS / Product",
+      "serviceSlug": "portfolio-only",
+      "brief": "A modern product film demonstrating AI voice agents for enterprise customer calls, scheduling, and business automation.",
+      "challenge": "Demonstrating the nuance of real-time conversational voice AI visually in a commercial video format.",
+      "solution": "Combined 3D audio visualizer waves, dynamic transcript text animations, and high-fidelity interface demonstrations.",
+      "outcome": "A forward-looking commercial film positioning AgentVoice as the premier conversational voice infrastructure.",
+      "theIdea": "Natural conversational AI voice agents handle high-volume phone calls with emotional nuance, sub-second latency, and immediate CRM synchronization.",
+      "theApproach": "Sleek soundwave particle visuals, call transcription ripples, and high-fidelity product demonstrations illustrating end-to-end business workflows.",
+      "theExecution": "Stylized 3D audio visualizer rings interacting with live call interfaces, fluid motion graphics, and crisp typography.",
+      "theFinalFilm": "A forward-looking commercial film that establishes AgentVoice as premier AI voice automation infrastructure.",
+      "year": "2026",
+      "type": "AI / SaaS / Product Film",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1Ia2czIgX13_19U5hLoq1eWTMOe4DRHp4",
+      "videoUrl": "/api/media/1Ia2czIgX13_19U5hLoq1eWTMOe4DRHp4",
+      "video": "/api/media/1Ia2czIgX13_19U5hLoq1eWTMOe4DRHp4",
+      "poster": "https://lh3.googleusercontent.com/d/1Ia2czIgX13_19U5hLoq1eWTMOe4DRHp4",
+      "route": "/work/agentvoice",
+      "aspectRatio": "16/9",
+      "width": 1280,
+      "height": 720,
+      "credits": {
+        "Film Direction": "BE SOOCIAL Studio",
+        "Voice Synthesis Post": "BE SOOCIAL Audio Lab",
+        "Product UI Motion": "BE SOOCIAL Spatial"
+      },
+      "metrics": [
+        {
+          "label": "Tech Stack",
+          "value": "AI Voice Pipeline"
+        },
+        {
+          "label": "Format",
+          "value": "16:9 Widescreen"
+        },
+        {
+          "label": "Audio",
+          "value": "Spatial Binaural"
+        }
+      ],
+      "featured": true,
+      "showOnHome": true,
+      "sortOrder": 9,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-10",
+      "number": "10",
+      "slug": "pioneer-air-systems",
+      "title": "Pioneer Air Systems",
+      "client": "Pioneer Pollution Control",
+      "category": "Commercial",
+      "categoryLabel": "Commercial",
+      "serviceSlug": "digital-marketing",
+      "brief": "A commercial-style promotional film showcasing industrial air cooling, ventilation, and dust collection systems.",
+      "challenge": "Making heavy industrial environmental machinery visually captivating to facility managers and engineering directors.",
+      "solution": "Leveraged high-contrast cinematography, dramatic macro perspectives on steel manufacturing, and dynamic airflow visualization.",
+      "outcome": "A commercial film elevating industrial hardware with the prestige and authority of a cutting-edge engineering technology brand.",
+      "theIdea": "Heavy industry depends on clean air and thermal regulation. Pioneer Air Systems engineers massive solutions that maximize factory output.",
+      "theApproach": "Transforming industrial machinery into a cinematic narrative through high-contrast lighting, macro perspectives, and airflow metaphors.",
+      "theExecution": "Filmic grading emphasizing steel textures and clean aerodynamics, paired with deep industrial sub-bass sound design.",
+      "theFinalFilm": "A commercial reel that gives industrial hardware the aesthetic gravitas and visual stature of a high-tech engineering brand.",
+      "year": "2026",
+      "type": "Industrial / Commercial",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1QU5RFDDwyb-ZfcvU_BKhk-P0-bXYIiuD",
+      "videoUrl": "/api/media/1QU5RFDDwyb-ZfcvU_BKhk-P0-bXYIiuD",
+      "video": "/api/media/1QU5RFDDwyb-ZfcvU_BKhk-P0-bXYIiuD",
+      "poster": "https://lh3.googleusercontent.com/d/1QU5RFDDwyb-ZfcvU_BKhk-P0-bXYIiuD",
+      "route": "/work/pioneer-air-systems",
+      "aspectRatio": "16/9",
+      "width": 3840,
+      "height": 2160,
+      "credits": {
+        "Commercial Direction": "BE SOOCIAL Studio",
+        "VFX & Airflow Modeling": "BE SOOCIAL Lab",
+        "Sound Master": "Industrial Soundscapes"
+      },
+      "metrics": [
+        {
+          "label": "Industry",
+          "value": "Industrial HVAC"
+        },
+        {
+          "label": "Format",
+          "value": "16:9 4K Cinema"
+        },
+        {
+          "label": "Audio",
+          "value": "Dolby Atmos Stems"
+        }
+      ],
+      "featured": false,
+      "showOnHome": true,
+      "sortOrder": 10,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-11",
+      "number": "11",
+      "slug": "nexl",
+      "title": "Nexl — Growth System",
+      "client": "Nexl CRM",
+      "category": "SaaS / Product",
+      "categoryLabel": "SaaS / Product",
+      "serviceSlug": "video-editing",
+      "brief": "A cinematic SaaS product overview for law firms, highlighting CRM, opportunity pipelines, contact management, and marketing automation.",
+      "challenge": "Engaging conservative legal enterprise decision-makers while communicating modern CRM efficiency and relationship analytics.",
+      "solution": "Engineered dark slate UI motion graphics, dynamic relationship network graph visualizations, and authoritative executive pacing.",
+      "outcome": "A compelling product showcase that commands the attention of managing partners and legal operations leaders.",
+      "theIdea": "Legal practices operate in relationship-driven markets. Nexl turns passive legal contact networks into proactive revenue generation and retention.",
+      "theApproach": "Sophisticated corporate design aesthetics: dark slate interfaces, golden relationship lines, smooth UI navigation, and authoritative messaging.",
+      "theExecution": "Precision UI motion graphics with subtle 3D tilt, dimensional relationship graph visualizations, and polished commercial pacing.",
+      "theFinalFilm": "An executive-level product showcase that commands the attention of managing partners and legal operations leaders worldwide.",
+      "year": "2026",
+      "type": "SaaS / Product Film",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1dhcCerRy9nEFTRcn6ntKfRMXyZkTJmvd",
+      "videoUrl": "/api/media/1dhcCerRy9nEFTRcn6ntKfRMXyZkTJmvd",
+      "video": "/api/media/1dhcCerRy9nEFTRcn6ntKfRMXyZkTJmvd",
+      "poster": "https://lh3.googleusercontent.com/d/1dhcCerRy9nEFTRcn6ntKfRMXyZkTJmvd",
+      "route": "/work/nexl",
+      "aspectRatio": "16/9",
+      "width": 1920,
+      "height": 1080,
+      "credits": {
+        "Direction & Motion": "Hlib Trazanov & BE SOOCIAL",
+        "Product Animation": "BE SOOCIAL Motion Lab",
+        "Executive Voiceover": "Master Sound Suite"
+      },
+      "metrics": [
+        {
+          "label": "Sector",
+          "value": "Legal Tech SaaS"
+        },
+        {
+          "label": "Format",
+          "value": "16:9 Cinema"
+        },
+        {
+          "label": "Master",
+          "value": "4K ProRes"
+        }
+      ],
+      "featured": true,
+      "showOnHome": true,
+      "sortOrder": 11,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-12",
+      "number": "12",
+      "slug": "spec-driven-development",
+      "title": "Spec-Driven Development",
+      "client": "Tech Education Initiative",
+      "category": "SaaS / Product",
+      "categoryLabel": "SaaS / Product",
+      "serviceSlug": "website-development",
+      "brief": "A technology-focused reel explaining the limitations of code-first workflows and the role of structured specifications in complex software development.",
+      "challenge": "Explaining abstract software development paradigms visually without losing technical credibility or viewer momentum.",
+      "solution": "Created diagrammatic animations, terminal interface motion, architectural flowcharts, and synchronized explanatory typography.",
+      "outcome": "An authoritative technical motion piece clarifying architectural principles for engineering teams and tech founders.",
+      "theIdea": "Jumping straight into writing code without architecture yields technical debt. Clear specifications and systematic constraints empower velocity.",
+      "theApproach": "Diagrammatic animations, clean terminal interfaces, conceptual flowcharts, and structured typography that make abstract software concepts crystal clear.",
+      "theExecution": "Minimalist vector diagrams and typography animations moving on a dark grid canvas, synced to articulate technical narration.",
+      "theFinalFilm": "An authoritative, educational reel that bridges technical rigor with cinematic clarity for engineers and tech leaders.",
+      "year": "2026",
+      "type": "Technology / Educational Content",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1bQpM551mibB8o4_6vh5PrJ-Z2VlZQR7L",
+      "videoUrl": "/api/media/1bQpM551mibB8o4_6vh5PrJ-Z2VlZQR7L",
+      "video": "/api/media/1bQpM551mibB8o4_6vh5PrJ-Z2VlZQR7L",
+      "poster": "https://lh3.googleusercontent.com/d/1bQpM551mibB8o4_6vh5PrJ-Z2VlZQR7L",
+      "route": "/work/spec-driven-development",
+      "aspectRatio": "9/16",
+      "width": 2140,
+      "height": 3840,
+      "credits": {
+        "Technical Direction": "BE SOOCIAL Engineering",
+        "Animation": "BE SOOCIAL Motion Lab",
+        "Scripting": "Software Architecture Group"
+      },
+      "metrics": [
+        {
+          "label": "Topic",
+          "value": "Software Architecture"
+        },
+        {
+          "label": "Format",
+          "value": "9:16 Vertical"
+        },
+        {
+          "label": "Pacing",
+          "value": "Educational Explainer"
+        }
+      ],
+      "featured": false,
+      "showOnHome": true,
+      "sortOrder": 12,
+      "status": "published",
+      "gallery": []
+    },
+    {
+      "id": "proj-13",
+      "number": "13",
+      "slug": "ai-essentials",
+      "title": "AI Essentials",
+      "client": "CompTIA Training Series",
+      "category": "AI & Film",
+      "categoryLabel": "AI & Film",
+      "serviceSlug": "portfolio-only",
+      "brief": "A promotional training film focused on practical AI education, responsible AI usage, and everyday workflow automation.",
+      "challenge": "Cutting through speculative AI hype to showcase pragmatic, ethical, and enterprise-grade automation tools.",
+      "solution": "Designed clear kinetic infographics, neural network node visualizations, real-world case snippets, and accessible modern typography.",
+      "outcome": "A polished promotional film inspiring teams to adopt AI workflows safely and effectively across business operations.",
+      "theIdea": "Demystifying AI hype by demonstrating pragmatic, ethical, and enterprise-ready automation tools that amplify human productivity.",
+      "theApproach": "Clean kinetic diagrams, neural network node visualizations, real-world case snippets, and accessible modern typography.",
+      "theExecution": "Dynamic infographic sequences composited with neural particle visual effects and calm, confident voice narration.",
+      "theFinalFilm": "A polished, professional promotional film that inspires professionals to adopt AI workflows safely and effectively.",
+      "year": "2026",
+      "type": "Education / AI",
+      "coverUrl": "https://lh3.googleusercontent.com/d/1mQoLmx1AGCzwWvsBlE3JEUrJlTI0FaiL",
+      "videoUrl": "/api/media/1mQoLmx1AGCzwWvsBlE3JEUrJlTI0FaiL",
+      "video": "/api/media/1mQoLmx1AGCzwWvsBlE3JEUrJlTI0FaiL",
+      "poster": "https://lh3.googleusercontent.com/d/1mQoLmx1AGCzwWvsBlE3JEUrJlTI0FaiL",
+      "route": "/work/ai-essentials",
+      "aspectRatio": "9/16",
+      "width": 720,
+      "height": 1280,
+      "credits": {
+        "Creative Direction": "BE SOOCIAL AI Studio",
+        "Motion Design": "BE SOOCIAL Lab",
+        "Audio Post": "Speech Mastering Suite"
+      },
+      "metrics": [
+        {
+          "label": "Curriculum",
+          "value": "CompTIA AI Standards"
+        },
+        {
+          "label": "Format",
+          "value": "9:16 Vertical"
+        },
+        {
+          "label": "Visuals",
+          "value": "Neural Infographics"
+        }
+      ],
+      "featured": false,
+      "showOnHome": true,
+      "sortOrder": 13,
+      "status": "published",
+      "gallery": []
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t-1",
+      "authorName": "Sebastian Cruz",
+      "role": "Chief Marketing Officer",
+      "company": "Solis Automotive Ltd",
+      "quote": "BE SOOCIAL did in 16 days what our traditional agency couldn’t map out in four months. The Solis launch film didn’t just meet expectations—it set a new creative standard for automotive virtual reveals.",
+      "avatarUrl": "https://picsum.photos/seed/sebastian-cruz/150/150",
+      "approved": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "t-2",
+      "authorName": "Astrid Lindholm",
+      "role": "Managing Director",
+      "company": "Kroma Acoustics Copenhagen",
+      "quote": "The team understands aesthetic restraint and cultural weight. They didn’t treat us as a commercial client; they treated our acoustic equipment like museum sculptures.",
+      "avatarUrl": "https://picsum.photos/seed/astrid-lindholm/150/150",
+      "approved": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "t-3",
+      "authorName": "Julian Vance",
+      "role": "General Partner",
+      "company": "Nexus Global Ventures",
+      "quote": "Every serious founder who visits our website immediately mentions the 3D spatial experience. BE SOOCIAL bridges high-level creative vision with uncompromising technical execution.",
+      "avatarUrl": "https://picsum.photos/seed/julian-vance/150/150",
+      "approved": true,
+      "sortOrder": 3
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "serviceId": null,
+      "question": "How does BE SOOCIAL balance human creative direction with AI tools?",
+      "answer": "AI is our lens and accelerator, not our creative director. Every project begins with human storyboards, art direction, and narrative intent. We deploy proprietary neural pipelines (ComfyUI, generative spatial models, synthetic voice) to produce visual worlds and velocity that would otherwise take months or millions of dollars, while keeping human taste at the center.",
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "faq-2",
+      "serviceId": null,
+      "question": "What is your typical project timeline and onboarding workflow?",
+      "answer": "Rapid creative sprints (AI commercial spots, high-tempo edits, UGC batches) typically deliver in 7 to 14 business days. Full brand overhauls and spatial web builds take between 4 to 8 weeks with dedicated weekly review milestones and private staging environments.",
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "faq-3",
+      "serviceId": null,
+      "question": "How do you handle licensing, copyrights, and AI model provenance?",
+      "answer": "All assets generated through our studio pipelines undergo rigorous copyright and trademark validation. We deliver full commercial exploitation rights, master source exports, and signed indemnity for enterprise broadcast and global digital deployment.",
+      "sortOrder": 3,
+      "status": "published"
+    },
+    {
+      "id": "faq-4",
+      "serviceId": null,
+      "question": "Can you integrate directly with our in-house marketing or engineering team?",
+      "answer": "Yes. We frequently act as an embedded high-velocity strike team for venture-backed startups and enterprise creative departments, integrating seamlessly via Slack, Linear, and Figma.",
+      "sortOrder": 4,
+      "status": "published"
+    }
+  ],
+  "inquiries": []
+}
